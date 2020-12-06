@@ -1,0 +1,21 @@
+
+.cmt-styling h4{
+    color: #3F51B5;
+}
+.img-styling{
+    display: flex;
+}
+.img-styling img{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+.cmt-body{
+    margin-left: 60px;
+}
+.cmt-inner{
+    border-bottom: 1px solid #bebebe;
+    border-left: 1px solid #bebebe;
+    border-right: 1px solid #bebebe;
+}

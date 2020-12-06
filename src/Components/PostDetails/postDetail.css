@@ -1,0 +1,16 @@
+.postDetail{
+    text-align: center;
+    border-bottom: 1px solid #bebebe;
+}
+.main-post{
+    margin: 0 auto;
+    width: 50%;
+}
+.cmt-headline{
+    border-bottom: 1px solid #bebebe;
+}
+.cmt-headline h4{
+    margin-left: 5%;
+    line-height: 0;
+    color: #3F51B5;
+}
